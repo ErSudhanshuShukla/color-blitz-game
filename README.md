@@ -4,7 +4,7 @@ A fast-paced browser game built with Vanilla JavaScript where players click a ra
 
 ## 🌐 Live Demo
 
-https://color-blitz-game-sudhanshu.vercel.app/
+https://color-blitz-game-sudhanshu.pages.dev/
 
 ## 📸 Preview
 
